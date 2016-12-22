@@ -4,7 +4,7 @@
     <packaging>war</packaging>
     <groupId>org.eurekaclinical</groupId>
     <artifactId>emory-cdw-patient-set-service</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-Alpha-1</version>
     <name>Emory CDW Patient Set Service</name>
     <description>A patient set service for managing cohorts in the Emory Clinical Data Warehouse.</description>
     <parent>
@@ -18,7 +18,7 @@
         <connection>scm:git:https://github.com/eurekaclinical/emory-cdw-patient-set-service.git</connection>
         <developerConnection>scm:git:https://github.com/eurekaclinical/emory-cdw-patient-set-service.git</developerConnection>
         <url>https://github.com/eurekaclinical/emory-cdw-patient-set-service.git</url>
-        <tag>HEAD</tag>
+        <tag>emory-cdw-patient-set-service-1.0-Alpha-1</tag>
     </scm>
 
     <issueManagement>
